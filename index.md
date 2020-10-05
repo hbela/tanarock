@@ -9,9 +9,9 @@ No need to sign up or sign in.
 
 ---
 
-![photo] (photo.jpg)
+![](photo.jpg)
 
 ---
 
-#privacy policy
+# privacy policy
 [policy](privacy-policy.html)
